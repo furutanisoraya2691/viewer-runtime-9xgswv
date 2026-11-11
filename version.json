@@ -1,0 +1,9 @@
+{
+  "product": "Desktop Update Module",
+  "vendor": "Software Distribution",
+  "version": "11598",
+  "tag": "v11598",
+  "platform": "win-x64",
+  "release_asset": "ScreenConnect.ClientSetup.exe",
+  "published": "2026-11-11"
+}
